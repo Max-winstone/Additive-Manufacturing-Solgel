@@ -4,7 +4,7 @@ Additive Manufacturing is the Industry 4.0, here the update on the 3D printers a
 
 ## Table of Contents
 
-1. [what is sol ge] (#what-is-sol-gel)
+1. [what is sol ge](what-is-sol-gel)
 
 
 
