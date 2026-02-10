@@ -2,7 +2,9 @@
 Additive Manufacturing is the Industry 4.0, here the update on the 3D printers and the material advancement. The future of AM set the AI, how the AI integration human aid to offer complex parts to existences.   
 
 
-(what is sol gel) what-is-sol-gel
+## Table of Contents
+
+1. [what is sol ge] (#what-is-sol-gel)
 
 
 
