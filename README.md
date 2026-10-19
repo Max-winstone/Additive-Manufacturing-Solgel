@@ -10,7 +10,7 @@ The fundamental principles of sol-gel processing. It requires exploring the area
 
 
 
-# Super-capacitors is the future for EV 
+# Super-capacitors via Sol-gel--MOP(metal-organic framework) FeCo3S4 with graphitic carbon/reduced graphene oxide. 
 
 
 ## Executive Summary & Scientific Context
