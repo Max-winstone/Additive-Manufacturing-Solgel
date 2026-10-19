@@ -96,15 +96,8 @@ To evaluate practical energy storage feasibility, an asymmetric supercapacitor w
 * **Cyclic Durability:** Maintains $92.3\%$ capacitance retention and a $99.1\%$ Coulombic efficiency after $10,000$ continuous CV cycles.
 
 
+<img width="702" height="313" alt="Screenshot 2026-10-19 at 5 22 37 PM" src="https://github.com/user-attachments/assets/126200f7-8cee-4f48-8ee4-3800f96482a7" />
 
-| Parameter | $\text{Fe-Co-S@gC/rGO // rGO}$ (This Work) | Comparable Literature Systems |
-| --- | --- | --- |
-| **Specific Capacitance** | $1827\text{ F g}^{-1}$ ($0.5\text{ A g}^{-1}$)
-
- | $1158\text{--}1877\text{ F g}^{-1}$<br> |
-| **Cell Voltage Window** | $2.0\text{ V}$<br> | $1.5\text{--}2.0\text{ V}$<br> |
-| **Energy Density** | **$541.2\text{ Wh kg}^{-1}$**<br> | $43.73\text{--}58.0\text{ Wh kg}^{-1}$<br> |
-| **Power Density** | **$8213.4\text{ W kg}^{-1}$**<br> | $512\text{--}7800\text{ W kg}^{-1}$<br> |
 
 ---
 
