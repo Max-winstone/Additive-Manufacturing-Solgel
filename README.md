@@ -106,5 +106,6 @@ To evaluate practical energy storage feasibility, an asymmetric supercapacitor w
 The MOF-derived hierarchical $\text{Fe-Co-S@gC/rGO}$ hybrid architecture effectively resolves the sluggish kinetics and aggregation issues of traditional transition metal sulfides. By synergizing redox-active $\text{Fe/Co}$ sulfide centers with a highly conductive 3D graphitic carbon and rGO framework, the material exhibits exceptional specific capacitance, rapid kinetics, and ultrahigh energy-power densities, positioning it as a leading candidate for next-generation energy storage technologies.
 
 
+Gholizadeh, A., & Mazaheri, E. (2026). MOF-derived hierarchical $\text{FeCo}_3\text{S}_4$@graphitic carbon/rGO nanoarchitectures for high-energy and high-power supercapacitors. Journal of Sol-Gel Science and Technology, 120, 7. https://doi.org/10.1007/s10971-026-07246-5[cite: 1]
 
 
