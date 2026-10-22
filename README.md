@@ -278,9 +278,3 @@ S-shaped hysteresis curves recorded up to magnetic field strengths of $10\text{ 
 * **Magnetic Hyperthermia:** Moderate $M_s$ and superparamagnetic-like behavior prevent remanent aggregation in zero-field conditions while generating heat under alternating fields.
 
 </details>
-
----
-*Document Compiled for GitHub Knowledge Base Documentation.*
-```
-
-The comprehensive scientific analysis summary has been formatted into Markdown with tree dropdown sections using HTML `<details>` and `<summary>` tags.
