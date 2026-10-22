@@ -14,6 +14,7 @@ and engineering applications.
 
 1. [Introduction to Sol-Gel Science](./Introduction-to-Sol-gel.md)
 2. [Supercapacitors via Sol-Gel and MOF-Assisted Synthesis](./Supercapacitors-via-Sol-gel-MOP.md)
+3. [Ni-Doped ZnO Nanoparticles Prepared by Sol–Gel](./Ni-Doped ZnO Nanoparticles Prepared by Sol–Gel)
 
 </details>
 
